@@ -2,13 +2,30 @@
     border-width: 10px;
     border:#080808 solid;
     background-color: #f58020;
-    text: #a3f520;
+    text-align: center;
     border-radius: 15px;
     margin: auto;
     padding: 10px;
 }
-h1{
-    background-color:;
-    text: #a3f520;
-    justify-content: center;
+body{background-color: rgba(128, 128, 128, 0.24); 
+    margin: 1px;
+    padding: 2px;
+}
+#secondcol {
+    background-color:#9436d3;
+    padding: 10px;
+    border-width: 10px;
+    border:#f511ea solid;
+}
+#firstcol{
+    background-color:#82e922;
+    padding: 10px;
+    text-align: center
+    border-width: 10px;
+    border: #015 solid;
+}
+#threecol{background-color: #f58020;
+    padding: 10px;
+    border-width: 10px;
+    border:#3511d4 solid;
 }

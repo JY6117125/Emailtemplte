@@ -1,9 +1,14 @@
-.container-fluid{
-    background:LightSkyBlue;
-    margin: 10px;
-    padding: auto;
-    text-decoration-color: #a3f520;
-    border: #a3f520;
-    border-radius: 10px;
-    
+#username {
+    border-width: 10px;
+    border:#080808 solid;
+    background-color: #f58020;
+    text: #a3f520;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+}
+h1{
+    background-color:;
+    text: #a3f520;
+    justify-content: center;
 }
